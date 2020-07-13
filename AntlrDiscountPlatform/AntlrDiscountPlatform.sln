@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntlrDiscountPlatform", "AntlrDiscountPlatform\AntlrDiscountPlatform.csproj", "{D35938BE-C679-4EB8-ADF3-E58504F094CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{D945BF88-392E-4F65-A5FF-DA47B5DF5643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D35938BE-C679-4EB8-ADF3-E58504F094CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35938BE-C679-4EB8-ADF3-E58504F094CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35938BE-C679-4EB8-ADF3-E58504F094CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35938BE-C679-4EB8-ADF3-E58504F094CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D945BF88-392E-4F65-A5FF-DA47B5DF5643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D945BF88-392E-4F65-A5FF-DA47B5DF5643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D945BF88-392E-4F65-A5FF-DA47B5DF5643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D945BF88-392E-4F65-A5FF-DA47B5DF5643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F518401A-B1D4-4546-83A6-88DB66DCC8A5}
+	EndGlobalSection
+EndGlobal
